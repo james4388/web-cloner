@@ -1,0 +1,13 @@
+{
+  "name": "web-cloner",
+  "version": "1.0.0",
+  "description": "Web crawler and cloning with PlayWright. Support client side rendered app (React, Vue, etc)",
+  "main": "main.js",
+  "repository": "git@github.com:james4388/web-cloner.git",
+  "author": "Nhu Trinh <ntrinh@rivian.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^11.0.0",
+    "playwright": "^1.35.1"
+  }
+}
